@@ -2,6 +2,7 @@
 
 Vancomycin Video Downloader is a full-featured, user-friendly desktop application built with Python that allows users to download YouTube videos or audio in batch or via search, with various quality options. It supports real-time download tracking.
 
+![Vancomycin Video Downloader UI](assets/ui.png)
 ---
 
 ## ✨ Features
